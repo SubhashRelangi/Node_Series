@@ -1,0 +1,45 @@
+20250510	13:23:11	db678c02-6526-478a-b8cc-6bd31b33d990	Error : Not allowed by CORS
+20250510	13:35:54	a5c73c86-a1d2-41db-9c89-f067b61ef197	TypeError : req.accepted is not a function
+20250512	10:22:14	a3dbd8df-9151-48b7-bdcd-36df56ed78d6	TypeError : Cannot destructure property 'user' of 'req.body' as it is undefined.
+20250512	10:23:25	8f5822d6-01d5-474f-96d4-703444ca2098	TypeError : Cannot destructure property 'user' of 'req.body' as it is undefined.
+20250517	09:21:50	7de675a0-5794-45e1-b039-52a6ef405c91	ReferenceError : crossOriginIsolated is not defined
+20250517	09:22:32	566d293c-a884-4c9e-b07d-223db8455c0c	ReferenceError : crossOriginIsolated is not defined
+20250517	09:22:35	39f4feb8-53e7-4f05-a9f1-8dcfcba54387	ReferenceError : crossOriginIsolated is not defined
+20250517	09:22:35	15857972-cc1a-43e4-a3d7-2daeae0b293a	ReferenceError : crossOriginIsolated is not defined
+20250517	09:22:44	cff22db1-7a6d-43fd-b870-87b82cfc2bed	ReferenceError : crossOriginIsolated is not defined
+20250517	09:23:07	df736eb3-8a2e-4533-a714-89348b4bca5e	ReferenceError : crossOriginIsolated is not defined
+20250517	09:24:16	23ff3ba8-3b2c-4079-920c-0e7df0992db6	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:47	999735d0-6b5d-45c5-920f-81f732740e2b	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:48	6b115756-c434-472d-b17e-e3f02aa59eb9	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:48	978536dd-e66c-4c49-beac-0dd6050c655d	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:48	82fdeb14-615f-482d-8e08-0acf51e82353	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:49	ac16ae7a-9a91-448b-979f-aba6e853ea59	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:49	9c87df2c-13e0-42d3-a037-1ee330007983	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:49	8f913fdb-9635-4ab8-93a1-9556991d0c6d	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:49	da3844c8-0da6-44bd-ba0f-ff92118cb8cb	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:49	11d254e1-edab-474a-9d1f-f34c980fdc28	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:50	21e69ac3-699b-4486-a571-b82a246c7560	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:50	36697b1a-14d9-4f9a-9926-c15fc2f05aba	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:50	7076b01e-5491-4a1f-b1f9-062feb3207f3	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:50	61261237-8342-49c8-8417-2b86e54d1fee	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:50	3534c6e1-6aed-487c-8bd6-c0b3e703202b	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:50	77c58d1a-e98e-46e7-9d9a-90b712fec7c8	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:51	c2306698-f50a-421b-a81a-467012323b44	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:51	535ec917-e11e-4256-a879-c0b25228b59e	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:51	6336168e-c25a-48d1-b736-bf7a2a25c0ed	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:51	8f9455c7-a0f1-49ce-a6ab-83192a6e1532	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:51	233f1f86-4825-4b7e-a756-c7a8cfd1b71f	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:51	1ae0ef2f-a06e-4071-9eff-f237832b1947	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:52	908d6c06-160f-45a5-9323-931d3d8cde99	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:52	e54092d5-e00c-4316-84b9-aeec1782eba5	ReferenceError : crossOriginIsolated is not defined
+20250517	09:27:52	fa6e5694-8556-4370-9227-cd6f6b21830e	ReferenceError : crossOriginIsolated is not defined
+20250517	09:31:53	3cb1c346-5c17-451c-9e52-3c51d3f46274	ReferenceError : crossOriginIsolated is not defined
+20250517	19:24:20	3d037c30-4d27-4668-934f-492e7adff3b9	TypeError : authHeader?.startsWidth is not a function
+20250517	19:24:33	e072ed76-bc05-4946-9a45-a319b4d7a7b1	TypeError : authHeader?.startsWidth is not a function
+20250517	19:26:37	280e23b5-5ccb-4a68-9c79-53b76fe4fd03	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250517	19:27:28	6c2d2b8d-e493-49b0-9323-16579049ab59	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250517	19:28:51	884be0de-1b63-440c-b7a1-6c5f12f70161	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250517	19:31:14	68ad1cfd-395c-4622-b8cf-c6e7b3d1f686	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250517	19:32:40	18f6f6a1-e63d-4103-b4ef-ed2037e83f2b	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250517	19:35:19	096b3e6d-dca4-4d10-8955-4c3778663064	TypeError : Cannot read properties of undefined (reading 'firstname')
+20250517	19:40:02	3dd74dc1-878a-4353-8fd9-33e8bc7df2c3	TypeError : Cannot read properties of undefined (reading 'id')
